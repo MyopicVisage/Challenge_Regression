@@ -4,7 +4,7 @@ Min(MSE) by using several Machine learning methods and generation of new attribu
 
 Setup Notes:
 Open the .ipython file with Jupyter Notebook, a python3.4 kernel is needed to run the scripts.
-These notebooks use scikit-learn's RandomForestRegressor and GradientBoostedRegressor methods.
+These notebooks use scikit-learn's GradientBoostedRegressor and RandomForestRegressor methods.
 
 Questions and Comments:
 If you find the scripts useful, let me know: myopicvisage@gmail.com. 
